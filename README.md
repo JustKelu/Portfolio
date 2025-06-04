@@ -1,7 +1,3 @@
-# My Professional Portfolio
-
-[![GitHub Pages Status](https://github.com/JustKelu/Portfolio/actions/workflows/github-pages/github-pages.yml/badge.svg)](https://github.com/JustKelu/portfolio/actions/workflows/github-pages/github-pages.yml)
-
 ## 🚀 Live Demo
 
 You can view the live version of my portfolio here:
